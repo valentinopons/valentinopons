@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @valentinopons
+- 👀 I’m interested in machine learning models 
+- 🌱 I’m currently learning Computer and Data science
+- 💞️ I’m looking to collaborate on interesting proyects data related
+- 📫 valentinopons@gmail.com
